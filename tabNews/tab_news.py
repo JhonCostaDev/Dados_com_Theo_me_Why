@@ -1,6 +1,8 @@
 #%%
 import pandas as pd 
 import requests 
+
+#%%
 '''
  ================= Docs api Tab News =================
 Parâmetro	Descrição
