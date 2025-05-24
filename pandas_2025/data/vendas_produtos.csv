@@ -1,0 +1,101 @@
+ID_Venda,Data,Produto,Categoria,Quantidade,Preço_Unitário,Receita_Total,Loja
+1,2025-04-09,Chinelo,Calçados,2,29.9,59.8,Loja B
+2,2025-04-18,Camiseta,Roupas,4,49.9,199.6,Loja B
+3,2025-04-22,Calça Jeans,Roupas,4,129.9,519.6,Loja B
+4,2025-04-29,Boné,Acessórios,2,39.9,79.8,Loja B
+5,2025-04-03,Calça Jeans,Roupas,3,129.9,389.7,Loja A
+6,2025-04-07,Camiseta,Roupas,1,49.9,49.9,Loja B
+7,2025-04-30,Vestido,Roupas,2,189.9,379.8,Loja B
+8,2025-04-30,Chinelo,Calçados,4,29.9,119.6,Loja B
+9,2025-04-10,Chinelo,Calçados,3,29.9,89.7,Loja C
+10,2025-04-14,Carteira,Acessórios,3,59.9,179.7,Loja C
+11,2025-04-04,Camiseta,Roupas,5,49.9,249.5,Loja B
+12,2025-04-20,Sandália,Calçados,3,79.9,239.7,Loja B
+13,2025-04-09,Tênis,Calçados,1,199.9,199.9,Loja B
+14,2025-04-07,Tênis,Calçados,3,199.9,599.7,Loja A
+15,2025-04-12,Tênis,Calçados,3,199.9,599.7,Loja B
+16,2025-04-14,Boné,Acessórios,5,39.9,199.5,Loja C
+17,2025-04-23,Jaqueta,Roupas,4,299.9,1199.6,Loja C
+18,2025-04-23,Sandália,Calçados,5,79.9,399.5,Loja A
+19,2025-04-16,Vestido,Roupas,2,189.9,379.8,Loja B
+20,2025-04-01,Calça Jeans,Roupas,3,129.9,389.7,Loja A
+21,2025-04-02,Mochila,Acessórios,4,89.9,359.6,Loja A
+22,2025-04-09,Calça Jeans,Roupas,2,129.9,259.8,Loja A
+23,2025-04-28,Camiseta,Roupas,3,49.9,149.7,Loja B
+24,2025-04-09,Vestido,Roupas,4,189.9,759.6,Loja C
+25,2025-04-08,Sandália,Calçados,4,79.9,319.6,Loja B
+26,2025-04-16,Camiseta,Roupas,3,49.9,149.7,Loja B
+27,2025-04-04,Chinelo,Calçados,3,29.9,89.7,Loja A
+28,2025-04-13,Calça Jeans,Roupas,4,129.9,519.6,Loja B
+29,2025-04-27,Calça Jeans,Roupas,1,129.9,129.9,Loja C
+30,2025-04-08,Jaqueta,Roupas,5,299.9,1499.5,Loja B
+31,2025-04-12,Carteira,Acessórios,2,59.9,119.8,Loja A
+32,2025-04-22,Calça Jeans,Roupas,3,129.9,389.7,Loja B
+33,2025-04-28,Jaqueta,Roupas,2,299.9,599.8,Loja C
+34,2025-04-09,Carteira,Acessórios,2,59.9,119.8,Loja C
+35,2025-04-21,Sandália,Calçados,3,79.9,239.7,Loja A
+36,2025-04-01,Tênis,Calçados,5,199.9,999.5,Loja A
+37,2025-04-25,Sandália,Calçados,2,79.9,159.8,Loja B
+38,2025-04-28,Chinelo,Calçados,4,29.9,119.6,Loja C
+39,2025-04-20,Chinelo,Calçados,5,29.9,149.5,Loja A
+40,2025-04-03,Boné,Acessórios,4,39.9,159.6,Loja C
+41,2025-04-24,Chinelo,Calçados,4,29.9,119.6,Loja C
+42,2025-04-26,Vestido,Roupas,3,189.9,569.7,Loja C
+43,2025-04-22,Sandália,Calçados,1,79.9,79.9,Loja A
+44,2025-04-14,Tênis,Calçados,2,199.9,399.8,Loja C
+45,2025-04-05,Calça Jeans,Roupas,2,129.9,259.8,Loja A
+46,2025-04-07,Sandália,Calçados,1,79.9,79.9,Loja B
+47,2025-04-11,Vestido,Roupas,5,189.9,949.5,Loja B
+48,2025-04-22,Calça Jeans,Roupas,4,129.9,519.6,Loja B
+49,2025-04-19,Vestido,Roupas,3,189.9,569.7,Loja B
+50,2025-04-22,Jaqueta,Roupas,4,299.9,1199.6,Loja A
+51,2025-04-25,Chinelo,Calçados,1,29.9,29.9,Loja A
+52,2025-04-20,Sandália,Calçados,4,79.9,319.6,Loja C
+53,2025-04-09,Boné,Acessórios,4,39.9,159.6,Loja C
+54,2025-04-17,Calça Jeans,Roupas,2,129.9,259.8,Loja A
+55,2025-04-20,Tênis,Calçados,5,199.9,999.5,Loja A
+56,2025-04-12,Chinelo,Calçados,3,29.9,89.7,Loja C
+57,2025-04-10,Boné,Acessórios,3,39.9,119.7,Loja B
+58,2025-04-11,Carteira,Acessórios,4,59.9,239.6,Loja B
+59,2025-04-11,Tênis,Calçados,3,199.9,599.7,Loja B
+60,2025-04-10,Boné,Acessórios,5,39.9,199.5,Loja A
+61,2025-04-23,Jaqueta,Roupas,5,299.9,1499.5,Loja C
+62,2025-04-24,Camiseta,Roupas,5,49.9,249.5,Loja A
+63,2025-04-24,Tênis,Calçados,2,199.9,399.8,Loja A
+64,2025-04-01,Calça Jeans,Roupas,1,129.9,129.9,Loja C
+65,2025-04-04,Jaqueta,Roupas,2,299.9,599.8,Loja B
+66,2025-04-22,Mochila,Acessórios,2,89.9,179.8,Loja C
+67,2025-04-10,Carteira,Acessórios,3,59.9,179.7,Loja C
+68,2025-04-11,Camiseta,Roupas,2,49.9,99.8,Loja C
+69,2025-04-12,Mochila,Acessórios,5,89.9,449.5,Loja A
+70,2025-04-22,Carteira,Acessórios,5,59.9,299.5,Loja C
+71,2025-04-20,Tênis,Calçados,3,199.9,599.7,Loja B
+72,2025-04-14,Carteira,Acessórios,1,59.9,59.9,Loja C
+73,2025-04-02,Tênis,Calçados,3,199.9,599.7,Loja B
+74,2025-04-11,Vestido,Roupas,3,189.9,569.7,Loja B
+75,2025-04-25,Calça Jeans,Roupas,3,129.9,389.7,Loja C
+76,2025-04-29,Sandália,Calçados,5,79.9,399.5,Loja A
+77,2025-04-18,Mochila,Acessórios,1,89.9,89.9,Loja B
+78,2025-04-21,Sandália,Calçados,2,79.9,159.8,Loja C
+79,2025-04-13,Camiseta,Roupas,1,49.9,49.9,Loja B
+80,2025-04-28,Sandália,Calçados,5,79.9,399.5,Loja B
+81,2025-04-30,Mochila,Acessórios,4,89.9,359.6,Loja A
+82,2025-04-04,Jaqueta,Roupas,1,299.9,299.9,Loja B
+83,2025-04-07,Vestido,Roupas,4,189.9,759.6,Loja B
+84,2025-04-14,Sandália,Calçados,4,79.9,319.6,Loja B
+85,2025-04-13,Tênis,Calçados,1,199.9,199.9,Loja C
+86,2025-04-26,Chinelo,Calçados,2,29.9,59.8,Loja C
+87,2025-04-02,Sandália,Calçados,4,79.9,319.6,Loja B
+88,2025-04-17,Boné,Acessórios,4,39.9,159.6,Loja B
+89,2025-04-13,Mochila,Acessórios,1,89.9,89.9,Loja A
+90,2025-04-07,Mochila,Acessórios,5,89.9,449.5,Loja B
+91,2025-04-06,Mochila,Acessórios,5,89.9,449.5,Loja A
+92,2025-04-22,Sandália,Calçados,2,79.9,159.8,Loja C
+93,2025-04-07,Vestido,Roupas,3,189.9,569.7,Loja A
+94,2025-04-18,Mochila,Acessórios,3,89.9,269.7,Loja C
+95,2025-04-08,Camiseta,Roupas,1,49.9,49.9,Loja B
+96,2025-04-24,Chinelo,Calçados,3,29.9,89.7,Loja C
+97,2025-04-08,Chinelo,Calçados,2,29.9,59.8,Loja A
+98,2025-04-04,Calça Jeans,Roupas,2,129.9,259.8,Loja C
+99,2025-04-16,Boné,Acessórios,3,39.9,119.7,Loja B
+100,2025-04-14,Jaqueta,Roupas,5,299.9,1499.5,Loja B
